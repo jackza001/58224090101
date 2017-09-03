@@ -13,7 +13,7 @@ int main()
     printf("point1=%.1f point2=%.0f\n",point1,point2);
     printf("choice=%c\n",choice);
     printf("ch1=%c ch2=%c\n",ch1,ch2);
-    short int number2 = 32767;
+    long int number2 = 40000;
     printf("number2=%d",number2);
     return 0;
 }
